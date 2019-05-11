@@ -1,2 +1,2 @@
-import lexer.py
+import lexer
 
