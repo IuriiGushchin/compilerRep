@@ -1,6 +1,8 @@
-n := 3;
-p := 1;
-while n > 0 do
-  p := p * n;
-  n := n - 1
+aan := 3;
+p := 2;
+while aan > 0 do
+  aap := p * aan;
+  aan := aan - 1
+
+p := (p+4) / 2
 end
